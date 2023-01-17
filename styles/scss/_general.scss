@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: "Inter", sans-serif;
+
+    .square {
+        width: 5rem;
+        height: 5rem;
+        margin: 1rem;
+        display: inline-block;
+        // background-color: pink;
+    }
+}
